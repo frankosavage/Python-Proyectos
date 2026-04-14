@@ -1,3 +1,5 @@
+# Crear una calculadora que pida dos numeros al usuario, una operacion y que devuelva el resultado
+
 numero1 = int(input("Introduce numero 1:"))
 numero2 = int(input("Introduce numero 2:"))
 
